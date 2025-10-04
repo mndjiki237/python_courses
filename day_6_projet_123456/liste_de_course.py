@@ -37,8 +37,6 @@ liste_de_course = []
 is_game = True
 
 while is_game:
-
-    print(f"Choisissez parmir les 5 options suivants: ")
     
     user_choice = input(MENU)
 
@@ -62,7 +60,7 @@ while is_game:
     elif user_choice == "3":
         if liste_de_course:
             for i in range(len(liste_de_course)):
-                print(f"{i+1}. {liste_de_course[i]}")
+                print(f"{i + 1}. {liste_de_course[i]}")
         else:
             print("la liste ne contient aucun élément")
     elif user_choice == "4":
