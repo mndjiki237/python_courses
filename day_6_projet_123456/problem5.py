@@ -15,3 +15,5 @@ if number_1.isdigit() and number_2.isdigit():
     print(f"{number_1} / {number_2} = {number_1 / number_2}")
     print(f"{number_1} // {number_2} = {number_1 // number_2}")
     print(f"{number_1} x {number_2} = {number_1 * number_2}")
+    print(f"{number_1} ** {number_2} = {number_1 ** number_2}")
+    print(f"{number_1} % {number_2} = {number_1 % number_2}")
