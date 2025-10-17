@@ -1,0 +1,31 @@
+2025-10-12 07:25:31,097 - ERROR - Une erreur est arrivée
+2025-10-12 07:25:31,097 - CRITICAL - Erreur critique
+2025-10-12 07:26:15,094 - ERROR - Une erreur est arrivée
+2025-10-12 07:26:15,094 - CRITICAL - Erreur critique
+2025-10-12 07:26:27,358 - ERROR - Une erreur est arrivée
+2025-10-12 07:26:27,358 - CRITICAL - Erreur critique
+2025-10-12 07:27:28,417 - ERROR - Une erreur est arrivée
+2025-10-12 07:27:28,418 - CRITICAL - Erreur critique
+2025-10-12 07:27:40,879 - ERROR - Une erreur est arrivée
+2025-10-12 07:27:40,879 - CRITICAL - Erreur critique
+2025-10-12 07:29:24,003 - ERROR - Une erreur est arrivée
+2025-10-12 07:29:24,004 - CRITICAL - Erreur critique
+2025-10-12 07:31:33,394 - ERROR - Une erreur est arrivée
+2025-10-12 07:31:33,394 - CRITICAL - Erreur critique
+2025-10-12 07:31:47,761 - ERROR - Une erreur est arrivée
+2025-10-12 07:31:47,761 - CRITICAL - Erreur critique
+2025-10-12 07:33:32,349 - DEBUG - La fonction a bien été exécutée
+2025-10-12 07:33:32,350 - INFO - Message d'information général
+2025-10-12 07:33:32,350 - WARNING - Attention !
+2025-10-12 07:33:32,350 - ERROR - Une erreur est arrivée
+2025-10-12 07:33:32,350 - CRITICAL - Erreur critique
+2025-10-12 07:33:49,800 - DEBUG - La fonction a bien été exécutée
+2025-10-12 07:33:49,801 - INFO - Message d'information général
+2025-10-12 07:33:49,801 - WARNING - Attention !
+2025-10-12 07:33:49,801 - ERROR - Une erreur est arrivée
+2025-10-12 07:33:49,801 - CRITICAL - Erreur critique
+2025-10-12 07:35:54,147 - DEBUG - Mode debug activÃ© (utile pour les dÃ©veloppeurs)
+2025-10-12 07:35:54,148 - INFO - DÃ©marrage de l'application...
+2025-10-12 07:35:54,148 - WARNING - Attention : un paramÃ¨tre est manquant.
+2025-10-12 07:35:54,148 - ERROR - Une erreur est survenue !
+2025-10-12 07:35:54,149 - CRITICAL - Erreur critique : arrÃªt immÃ©diat.
